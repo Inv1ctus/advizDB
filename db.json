@@ -9,7 +9,7 @@
     "country": "Deutschland",
     "isPrivate": false,
     "id": 1,
-    "markerPos": [0, 0]
+    "markerPos": [52.4496, 13.58359]
   },
   {
     "forename": "Ervin",
@@ -20,7 +20,7 @@
     "country": "Deutschland",
     "isPrivate": false,
     "id": 2,
-    "markerPos": [0, 0]
+    "markerPos": [52.4517, 13.58357]
   },
   {
     "forename": "Clementine",
@@ -31,7 +31,7 @@
     "country": "Deutschland",
     "isPrivate": true,
     "id": 3,
-    "markerPos": [0, 0]
+    "markerPos": [52.56397, 13.39808]
   }
 ]
 }
