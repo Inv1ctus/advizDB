@@ -33,5 +33,18 @@
     "id": 3,
     "markerPos": [52.56397, 13.39808]
   }
-]
+],
+
+  "user": [
+  	{
+  		"username": "admin",
+  		"password": "admin",
+  		"userId": "1"
+  	},
+  	{
+  		"username": "normalo",
+  		"password": "normalo",
+  		"userId": "2"
+  	}
+  ]
 }
